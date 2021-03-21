@@ -6,7 +6,7 @@
   list-style: none;
 }
 
-.navigation {
+header {
   height: 70px; /* Height of Header */
   background: #262626;
 }
@@ -20,7 +20,6 @@
 }
 .brand a, .brand a:visited {
   color: #ffffff;
-  text-decoration: none;
 }
 .nav-container {
   width: 100%;
@@ -44,7 +43,6 @@ nav ul li a, nav ul li a:visited {
   line-height: 70px;
   background: #262626;
   color: #ffffff;
-  text-decoration: none;
 }
 nav ul li a:hover, nav ul li a:visited:hover {
   background: #2581DC;
